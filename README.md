@@ -32,6 +32,7 @@
 
 - [TinyPNG](https://tinypng.com) – Compress PNG and JPG images.
 - [Regex101](https://regex101.com) – Build and test regular expressions.
+- [BestJSON JSON Diff](https://bestjson.com/json-diff) – Compare JSON structures by path, with explicit array-order and record-ID matching rules.
 - [Remove.bg](https://remove.bg) – Automatically remove image backgrounds.
 
 ---
